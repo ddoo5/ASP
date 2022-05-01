@@ -44,10 +44,19 @@ try
     builder.Services.AddSingleton<IJobFactory, SingletonJobFactory>();
     builder.Services.AddSingleton<ISchedulerFactory, StdSchedulerFactory>();
 
+    builder.Services.AddSingleton<CpuMetricJob>();
     builder.Services.AddSingleton(new JobSchedule(jobType: typeof(CpuMetricJob), cronExpression: "0/5 * * * * ?"));
+
+    builder.Services.AddSingleton<RamMetricJob>();
     builder.Services.AddSingleton(new JobSchedule(jobType: typeof(RamMetricJob), cronExpression: "0/5 * * * * ?"));
+
+    builder.Services.AddSingleton<NetworkMetricJob>();
     builder.Services.AddSingleton(new JobSchedule(jobType: typeof(NetworkMetricJob), cronExpression: "0/5 * * * * ?"));
+
+    builder.Services.AddSingleton<HddMetricJob>();
     builder.Services.AddSingleton(new JobSchedule(jobType: typeof(HddMetricJob), cronExpression: "0/5 * * * * ?"));
+
+    builder.Services.AddSingleton<DotNetMetricJob>();
     builder.Services.AddSingleton(new JobSchedule(jobType: typeof(DotNetMetricJob), cronExpression: "0/5 * * * * ?"));
 
     builder.Services.AddSingleton(_mapper);
