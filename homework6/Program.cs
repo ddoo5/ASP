@@ -38,7 +38,7 @@ try
     builder.Services.AddFluentMigratorCore()
                 .ConfigureRunner(rb => rb
                     .AddSQLite()
-                    .WithGlobalConnectionString("Data Source=test.db")
+                    .WithGlobalConnectionString("Data Source=migration.db")
                     .ScanIn(typeof(Program).Assembly).For.Migrations())
                 .AddLogging(lb => lb.AddFluentMigratorConsole());
 
