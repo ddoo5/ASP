@@ -13,9 +13,7 @@ using MManager.Repo.MetricsRepo;
 using MManager.Job.Factory;
 using MManager.Job;
 using MManager.Job.Schedule;
-
-
-
+using MManager.Repo;
 
 var builder = WebApplication.CreateBuilder(args);
 var _logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
@@ -49,6 +47,8 @@ try
     builder.Services.AddSingleton<IRamMetricsRepository, RamMetricsRepository>();
     builder.Services.AddSingleton<IDotNetMetricsRepository, DotNetMetricsRepository>();
     builder.Services.AddSingleton<IHddMetricsRepository, HddMetricsRepository>();
+    builder.Services.AddSingleton<IAgentRepository, AgentRepository>();
+    builder.Services.AddSingleton<IMetricsAgentClient, MetricsAgentClient>();
 
     builder.Services.AddSingleton<IJobFactory, SingletonJobFactory>();
     builder.Services.AddSingleton<ISchedulerFactory, StdSchedulerFactory>();
