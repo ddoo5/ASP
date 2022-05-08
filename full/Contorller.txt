@@ -1,0 +1,221 @@
+2022-05-05 19:04:46.8315 Info Message Template Auto Format enabled
+2022-05-05 19:04:46.8618 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-05 19:04:46.9186 Info Adding target FileTarget(Name=allfile)
+2022-05-05 19:04:46.9202 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-05 19:04:46.9227 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-05 19:04:46.9659 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=/Users/mac/Desktop/MAgent/bin/Debug/net6.0/nlog.config
+2022-05-06 22:11:22.6593 Info Message Template Auto Format enabled
+2022-05-06 22:11:22.6926 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-06 22:11:22.7532 Info Adding target FileTarget(Name=allfile)
+2022-05-06 22:11:22.7547 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-06 22:11:22.7570 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-06 22:11:22.8142 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=/Users/mac/Desktop/MAgent/bin/Debug/net6.0/nlog.config
+2022-05-06 22:12:12.6102 Info Message Template Auto Format enabled
+2022-05-06 22:12:12.6478 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-06 22:12:12.7088 Info Adding target FileTarget(Name=allfile)
+2022-05-06 22:12:12.7103 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-06 22:12:12.7129 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-06 22:12:12.7859 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=/Users/mac/Desktop/MAgent/bin/Debug/net6.0/nlog.config
+2022-05-06 22:15:34.2939 Info Message Template Auto Format enabled
+2022-05-06 22:15:34.3625 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-06 22:15:34.4551 Info Adding target FileTarget(Name=allfile)
+2022-05-06 22:15:34.4551 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-06 22:15:34.4623 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-06 22:15:34.5324 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-06 22:17:00.8254 Info Message Template Auto Format enabled
+2022-05-06 22:17:00.8510 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-06 22:17:00.9432 Info Adding target FileTarget(Name=allfile)
+2022-05-06 22:17:00.9472 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-06 22:17:00.9667 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-06 22:17:01.0590 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-06 22:43:11.9281 Info Message Template Auto Format enabled
+2022-05-06 22:43:11.9774 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-06 22:43:12.2156 Info Adding target FileTarget(Name=allfile)
+2022-05-06 22:43:12.2156 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-06 22:43:12.2273 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-06 22:43:12.3604 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics app\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 18:59:43.6175 Info Message Template Auto Format enabled
+2022-05-07 18:59:43.6762 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 18:59:43.7893 Info Adding target FileTarget(Name=allfile)
+2022-05-07 18:59:43.7893 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 18:59:43.8108 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 18:59:43.8704 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 19:30:08.4088 Info Message Template Auto Format enabled
+2022-05-07 19:30:08.4644 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 19:30:08.5770 Info Adding target FileTarget(Name=allfile)
+2022-05-07 19:30:08.5770 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 19:30:08.5924 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 19:30:08.6576 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 19:42:51.2143 Info Message Template Auto Format enabled
+2022-05-07 19:42:51.2512 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 19:42:51.4336 Info Adding target FileTarget(Name=allfile)
+2022-05-07 19:42:51.4336 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 19:42:51.4477 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 19:42:51.5247 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 19:48:46.9682 Info Message Template Auto Format enabled
+2022-05-07 19:48:47.0993 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 19:48:47.2855 Info Adding target FileTarget(Name=allfile)
+2022-05-07 19:48:47.2855 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 19:48:47.2855 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 19:48:47.3580 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 19:59:48.6273 Info Message Template Auto Format enabled
+2022-05-07 19:59:48.6692 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 19:59:48.7713 Info Adding target FileTarget(Name=allfile)
+2022-05-07 19:59:48.7713 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 19:59:48.7819 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 19:59:48.8595 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:00:58.8767 Info Message Template Auto Format enabled
+2022-05-07 20:00:58.9878 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:00:59.1699 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:00:59.1699 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:00:59.1699 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:00:59.3172 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:18:06.3929 Info Message Template Auto Format enabled
+2022-05-07 20:18:06.4990 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:18:06.6635 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:18:06.6635 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:18:06.6635 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:18:06.7226 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:20:51.1422 Info Message Template Auto Format enabled
+2022-05-07 20:20:51.1835 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:20:51.2920 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:20:51.2920 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:20:51.3146 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:20:51.3820 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:22:40.3691 Info Message Template Auto Format enabled
+2022-05-07 20:22:40.4359 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:22:40.5725 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:22:40.5769 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:22:40.5769 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:22:40.6237 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:31:26.7040 Info Message Template Auto Format enabled
+2022-05-07 20:31:26.7565 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:31:26.8608 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:31:26.8608 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:31:26.8695 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:31:26.9195 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:43:28.1679 Info Message Template Auto Format enabled
+2022-05-07 20:43:28.2200 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:43:28.3630 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:43:28.3721 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:43:28.3721 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:43:28.4645 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:46:24.3631 Info Message Template Auto Format enabled
+2022-05-07 20:46:24.4251 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:46:24.5523 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:46:24.5571 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:46:24.5571 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:46:24.5957 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:49:03.7419 Info Message Template Auto Format enabled
+2022-05-07 20:49:03.7990 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:49:03.9644 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:49:03.9644 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:49:03.9644 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:49:04.0612 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:53:11.3745 Info Message Template Auto Format enabled
+2022-05-07 20:53:11.4298 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:53:11.5898 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:53:11.6158 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:53:11.6158 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:53:11.6849 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 20:55:42.8121 Info Message Template Auto Format enabled
+2022-05-07 20:55:42.8459 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 20:55:42.9625 Info Adding target FileTarget(Name=allfile)
+2022-05-07 20:55:42.9717 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 20:55:42.9717 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 20:55:43.0411 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:10:43.9201 Info Message Template Auto Format enabled
+2022-05-07 21:10:43.9919 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:10:44.3397 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:10:44.5733 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:10:44.5820 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:10:44.6683 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:12:31.0541 Info Message Template Auto Format enabled
+2022-05-07 21:12:31.0818 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:12:31.2578 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:12:31.2578 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:12:31.2578 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:12:31.3295 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:23:51.3787 Info Message Template Auto Format enabled
+2022-05-07 21:23:51.4251 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:23:51.6091 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:23:51.6230 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:23:51.6355 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:23:51.7087 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:28:11.8412 Info Message Template Auto Format enabled
+2022-05-07 21:28:11.9624 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:28:12.2243 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:28:12.2243 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:28:12.2422 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:28:12.3905 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:30:20.4950 Info Message Template Auto Format enabled
+2022-05-07 21:30:20.5271 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:30:20.6558 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:30:20.6591 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:30:20.6591 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:30:20.7026 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:31:41.0629 Info Message Template Auto Format enabled
+2022-05-07 21:31:41.0858 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:31:41.1772 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:31:41.1772 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:31:41.1928 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:31:41.2971 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:32:26.1554 Info Message Template Auto Format enabled
+2022-05-07 21:32:26.1749 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:32:26.2961 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:32:26.2961 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:32:26.2961 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:32:26.3631 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:40:40.8993 Info Message Template Auto Format enabled
+2022-05-07 21:40:40.9906 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:40:41.3892 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:40:41.3892 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:40:41.3998 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:40:41.4642 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:44:50.8620 Info Message Template Auto Format enabled
+2022-05-07 21:44:50.9228 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:44:51.1999 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:44:51.2292 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:44:51.2292 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:44:51.3743 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:50:28.9201 Info Message Template Auto Format enabled
+2022-05-07 21:50:28.9602 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:50:29.1460 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:50:29.1552 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:50:29.1843 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:50:29.2575 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:53:33.4109 Info Message Template Auto Format enabled
+2022-05-07 21:53:33.4656 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:53:33.6694 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:53:33.7601 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:53:33.7601 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:53:34.0181 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 21:54:57.9421 Info Message Template Auto Format enabled
+2022-05-07 21:54:57.9722 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 21:54:58.0731 Info Adding target FileTarget(Name=allfile)
+2022-05-07 21:54:58.0731 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 21:54:58.1034 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 21:54:58.1864 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 22:14:51.9467 Info Message Template Auto Format enabled
+2022-05-07 22:14:51.9791 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 22:14:52.1465 Info Adding target FileTarget(Name=allfile)
+2022-05-07 22:14:52.1850 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 22:14:52.2308 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 22:14:52.9077 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 22:17:24.4494 Info Message Template Auto Format enabled
+2022-05-07 22:17:24.4631 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 22:17:24.5167 Info Adding target FileTarget(Name=allfile)
+2022-05-07 22:17:24.5192 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 22:17:24.5192 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 22:17:24.5518 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
+2022-05-07 22:17:57.7809 Info Shutdown() called. Logger closing...
+2022-05-07 22:17:57.7809 Info Closing old configuration.
+2022-05-07 22:17:57.7938 Info Logger has been closed down.
+2022-05-07 22:17:57.7938 Info AppDomain Shutting down. Logger closing...
+2022-05-07 22:17:57.7938 Info Logger has been shut down.
+2022-05-07 22:18:15.1961 Info Message Template Auto Format enabled
+2022-05-07 22:18:15.2231 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-07 22:18:15.4160 Info Adding target FileTarget(Name=allfile)
+2022-05-07 22:18:15.4160 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2022-05-07 22:18:15.4284 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-05-07 22:18:15.6224 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=36, FilePath=C:\Users\D\Desktop\Metrics Client\MAgent\bin\Debug\net6.0\nlog.config
