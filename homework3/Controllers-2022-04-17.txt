@@ -1,0 +1,159 @@
+2022-04-17 22:41:41.3614|0|DEBUG|Program|Run 
+2022-04-17 22:41:42.2378|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5136 
+2022-04-17 22:41:42.2625|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-17 22:41:42.2634|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-17 22:41:42.2638|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/mac/Desktop/Metrics agent/ 
+2022-04-17 22:41:49.5565|1|INFO|Metrics.Controllers.CpuController|Entered request: Value: 1,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:41:50.2420|1|INFO|Metrics.Controllers.CpuController|Entered request: Value: 1,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:41:50.9699|1|INFO|Metrics.Controllers.CpuController|Entered request: Value: 1,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:41:51.5427|1|INFO|Metrics.Controllers.CpuController|Entered request: Value: 1,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:41:52.1601|1|INFO|Metrics.Controllers.CpuController|Entered request: Value: 1,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:41:54.5406|1|INFO|Metrics.Controllers.CpuController|Entered request: Display cpumetrics database 
+2022-04-17 22:41:54.5480|2|INFO|Metrics.Controllers.CpuController|Displayed: 1, 1, 10/03/2020 10:03:00 
+2022-04-17 22:41:54.5480|2|INFO|Metrics.Controllers.CpuController|Displayed: 2, 1, 10/03/2020 10:03:00 
+2022-04-17 22:41:54.5480|2|INFO|Metrics.Controllers.CpuController|Displayed: 3, 1, 10/03/2020 10:03:00 
+2022-04-17 22:41:54.5480|2|INFO|Metrics.Controllers.CpuController|Displayed: 4, 1, 10/03/2020 10:03:00 
+2022-04-17 22:41:54.5488|2|INFO|Metrics.Controllers.CpuController|Displayed: 5, 1, 10/03/2020 10:03:00 
+2022-04-17 22:42:00.8219|1|INFO|Metrics.Controllers.CpuController|Entered request: Delete 2 item in cpumetrics database 
+2022-04-17 22:42:04.8338|1|INFO|Metrics.Controllers.CpuController|Entered request: Update cpumetrics database 
+2022-04-17 22:42:04.8356|2|INFO|Metrics.Controllers.CpuController|From: 3  1  10/03/2020 10:03:00 
+2022-04-17 22:42:04.8356|2|INFO|Metrics.Controllers.CpuController|To: 3  10  10/03/2020 10:03:00 
+2022-04-17 22:42:08.5376|1|INFO|Metrics.Controllers.CpuController|Entered request: Display 5 item from cpumetrics database 
+2022-04-17 22:42:11.9285|1|INFO|Metrics.Controllers.CpuController|Entered request: Display cpumetrics database 
+2022-04-17 22:42:11.9297|2|INFO|Metrics.Controllers.CpuController|Displayed: 1, 1, 10/03/2020 10:03:00 
+2022-04-17 22:42:11.9297|2|INFO|Metrics.Controllers.CpuController|Displayed: 3, 10, 10/03/2020 10:03:00 
+2022-04-17 22:42:11.9303|2|INFO|Metrics.Controllers.CpuController|Displayed: 4, 1, 10/03/2020 10:03:00 
+2022-04-17 22:42:11.9303|2|INFO|Metrics.Controllers.CpuController|Displayed: 5, 1, 10/03/2020 10:03:00 
+2022-04-17 22:42:24.1220|1|INFO|Metrics.Controllers.HddController|Entered request: Value: 2,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:42:24.7177|1|INFO|Metrics.Controllers.HddController|Entered request: Value: 2,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:42:25.2399|1|INFO|Metrics.Controllers.HddController|Entered request: Value: 2,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:42:25.6652|1|INFO|Metrics.Controllers.HddController|Entered request: Value: 2,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:42:26.2269|1|INFO|Metrics.Controllers.HddController|Entered request: Value: 2,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:42:30.6204|1|INFO|Metrics.Controllers.HddController|Entered request: Display hddmetrics database 
+2022-04-17 22:42:30.6225|2|INFO|Metrics.Controllers.HddController|Displayed: 1, 2, 10/03/2020 10:03:00 
+2022-04-17 22:42:30.6228|2|INFO|Metrics.Controllers.HddController|Displayed: 2, 2, 10/03/2020 10:03:00 
+2022-04-17 22:42:30.6228|2|INFO|Metrics.Controllers.HddController|Displayed: 3, 2, 10/03/2020 10:03:00 
+2022-04-17 22:42:30.6228|2|INFO|Metrics.Controllers.HddController|Displayed: 4, 2, 10/03/2020 10:03:00 
+2022-04-17 22:42:30.6237|2|INFO|Metrics.Controllers.HddController|Displayed: 5, 2, 10/03/2020 10:03:00 
+2022-04-17 22:42:37.3029|1|INFO|Metrics.Controllers.HddController|Entered request: Delete 2 item in hddmetrics database 
+2022-04-17 22:42:41.2407|1|INFO|Metrics.Controllers.HddController|Entered request: Update hddmetrics database 
+2022-04-17 22:42:41.2426|2|INFO|Metrics.Controllers.HddController|From: 3  2  10/03/2020 10:03:00 
+2022-04-17 22:42:41.2426|2|INFO|Metrics.Controllers.HddController|To: 3  10  10/03/2020 10:03:00 
+2022-04-17 22:42:46.7920|1|INFO|Metrics.Controllers.HddController|Entered request: Display 5 item from hddmetrics database 
+2022-04-17 22:42:56.1452|1|INFO|Metrics.Controllers.HddController|Entered request: Update hddmetrics database 
+2022-04-17 22:42:56.1469|2|INFO|Metrics.Controllers.HddController|From: 3  10  10/03/2020 10:03:00 
+2022-04-17 22:42:56.1469|2|INFO|Metrics.Controllers.HddController|To: 3  20  10/03/2020 10:03:00 
+2022-04-17 22:43:01.5476|1|INFO|Metrics.Controllers.HddController|Entered request: Display hddmetrics database 
+2022-04-17 22:43:01.5489|2|INFO|Metrics.Controllers.HddController|Displayed: 1, 2, 10/03/2020 10:03:00 
+2022-04-17 22:43:01.5489|2|INFO|Metrics.Controllers.HddController|Displayed: 3, 20, 10/03/2020 10:03:00 
+2022-04-17 22:43:01.5493|2|INFO|Metrics.Controllers.HddController|Displayed: 4, 2, 10/03/2020 10:03:00 
+2022-04-17 22:43:01.5493|2|INFO|Metrics.Controllers.HddController|Displayed: 5, 2, 10/03/2020 10:03:00 
+2022-04-17 22:43:14.6746|1|INFO|Metrics.Controllers.RamController|Entered request: Value: 3,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:15.2250|1|INFO|Metrics.Controllers.RamController|Entered request: Value: 3,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:15.8118|1|INFO|Metrics.Controllers.RamController|Entered request: Value: 3,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:16.1956|1|INFO|Metrics.Controllers.RamController|Entered request: Value: 3,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:16.7169|1|INFO|Metrics.Controllers.RamController|Entered request: Value: 3,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:21.0635|1|INFO|Metrics.Controllers.RamController|Entered request: Display rammetrics database 
+2022-04-17 22:43:21.0667|2|INFO|Metrics.Controllers.RamController|Displayed: 1, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:21.0670|2|INFO|Metrics.Controllers.RamController|Displayed: 2, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:21.0670|2|INFO|Metrics.Controllers.RamController|Displayed: 3, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:21.0670|2|INFO|Metrics.Controllers.RamController|Displayed: 4, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:21.0670|2|INFO|Metrics.Controllers.RamController|Displayed: 5, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:27.8617|1|INFO|Metrics.Controllers.RamController|Entered request: Delete 2 item in rammetrics database 
+2022-04-17 22:43:31.5135|1|INFO|Metrics.Controllers.RamController|Entered request: Update rammetrics database 
+2022-04-17 22:43:31.5146|2|INFO|Metrics.Controllers.RamController|From: 3  3  10/03/2020 10:03:00 
+2022-04-17 22:43:31.5155|2|INFO|Metrics.Controllers.RamController|To: 3  30  10/03/2020 10:03:00 
+2022-04-17 22:43:36.4330|1|INFO|Metrics.Controllers.RamController|Entered request: Display 5 item from rammetrics database 
+2022-04-17 22:43:38.9169|1|INFO|Metrics.Controllers.RamController|Entered request: Display rammetrics database 
+2022-04-17 22:43:38.9182|2|INFO|Metrics.Controllers.RamController|Displayed: 1, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:38.9182|2|INFO|Metrics.Controllers.RamController|Displayed: 3, 30, 10/03/2020 10:03:00 
+2022-04-17 22:43:38.9182|2|INFO|Metrics.Controllers.RamController|Displayed: 4, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:38.9182|2|INFO|Metrics.Controllers.RamController|Displayed: 5, 3, 10/03/2020 10:03:00 
+2022-04-17 22:43:57.8355|1|INFO|Metrics.Controllers.NetworkController|Entered request: Value: 4,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:43:59.8774|1|INFO|Metrics.Controllers.NetworkController|Entered request: Value: 4,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:00.3410|1|INFO|Metrics.Controllers.NetworkController|Entered request: Value: 4,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:00.8211|1|INFO|Metrics.Controllers.NetworkController|Entered request: Value: 4,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:01.2967|1|INFO|Metrics.Controllers.NetworkController|Entered request: Value: 4,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:06.2119|1|INFO|Metrics.Controllers.NetworkController|Entered request: Display networkmetrics database 
+2022-04-17 22:44:06.2144|2|INFO|Metrics.Controllers.NetworkController|Displayed: 1, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.2148|2|INFO|Metrics.Controllers.NetworkController|Displayed: 2, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.2148|2|INFO|Metrics.Controllers.NetworkController|Displayed: 3, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.2148|2|INFO|Metrics.Controllers.NetworkController|Displayed: 4, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.2155|2|INFO|Metrics.Controllers.NetworkController|Displayed: 5, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.9247|1|INFO|Metrics.Controllers.NetworkController|Entered request: Display networkmetrics database 
+2022-04-17 22:44:06.9257|2|INFO|Metrics.Controllers.NetworkController|Displayed: 1, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.9257|2|INFO|Metrics.Controllers.NetworkController|Displayed: 2, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.9257|2|INFO|Metrics.Controllers.NetworkController|Displayed: 3, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.9257|2|INFO|Metrics.Controllers.NetworkController|Displayed: 4, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:06.9265|2|INFO|Metrics.Controllers.NetworkController|Displayed: 5, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:08.1164|1|INFO|Metrics.Controllers.NetworkController|Entered request: Display networkmetrics database 
+2022-04-17 22:44:08.1177|2|INFO|Metrics.Controllers.NetworkController|Displayed: 1, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:08.1177|2|INFO|Metrics.Controllers.NetworkController|Displayed: 2, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:08.1177|2|INFO|Metrics.Controllers.NetworkController|Displayed: 3, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:08.1177|2|INFO|Metrics.Controllers.NetworkController|Displayed: 4, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:08.1186|2|INFO|Metrics.Controllers.NetworkController|Displayed: 5, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:15.0126|1|INFO|Metrics.Controllers.NetworkController|Entered request: Delete 2 item in networkmetrics database 
+2022-04-17 22:44:19.0634|1|INFO|Metrics.Controllers.NetworkController|Entered request: Update networkmetrics database 
+2022-04-17 22:44:19.0645|2|INFO|Metrics.Controllers.NetworkController|From: 3  4  10/03/2020 10:03:00 
+2022-04-17 22:44:19.0660|2|INFO|Metrics.Controllers.NetworkController|To: 3  40  10/03/2020 10:03:00 
+2022-04-17 22:44:23.6637|1|INFO|Metrics.Controllers.NetworkController|Entered request: Display 5 item from networkmetrics database 
+2022-04-17 22:44:25.7235|1|INFO|Metrics.Controllers.NetworkController|Entered request: Display networkmetrics database 
+2022-04-17 22:44:25.7250|2|INFO|Metrics.Controllers.NetworkController|Displayed: 1, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:25.7250|2|INFO|Metrics.Controllers.NetworkController|Displayed: 3, 40, 10/03/2020 10:03:00 
+2022-04-17 22:44:25.7250|2|INFO|Metrics.Controllers.NetworkController|Displayed: 4, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:25.7259|2|INFO|Metrics.Controllers.NetworkController|Displayed: 5, 4, 10/03/2020 10:03:00 
+2022-04-17 22:44:51.7269|1|INFO|Metrics.Controllers.DotNetController|Entered request: Value: 5,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:52.8908|1|INFO|Metrics.Controllers.DotNetController|Entered request: Value: 5,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:53.5131|1|INFO|Metrics.Controllers.DotNetController|Entered request: Value: 5,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:53.9074|1|INFO|Metrics.Controllers.DotNetController|Entered request: Value: 5,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:54.4230|1|INFO|Metrics.Controllers.DotNetController|Entered request: Value: 5,
+ Time: 10/03/2020 10:03:00 
+2022-04-17 22:44:56.6437|1|INFO|Metrics.Controllers.DotNetController|Entered request: Delete 2 item in dotnetmetrics database 
+2022-04-17 22:44:58.8821|1|INFO|Metrics.Controllers.DotNetController|Entered request: Update dotnetmetrics database 
+2022-04-17 22:44:58.8838|2|INFO|Metrics.Controllers.DotNetController|From: 3  5  10/03/2020 10:03:00 
+2022-04-17 22:44:58.8838|2|INFO|Metrics.Controllers.DotNetController|To: 3  50  10/03/2020 10:03:00 
+2022-04-17 22:45:01.1551|1|INFO|Metrics.Controllers.DotNetController|Entered request: Display dotnetmetrics database 
+2022-04-17 22:45:01.1564|2|INFO|Metrics.Controllers.DotNetController|Displayed: 1, 5, 10/03/2020 10:03:00 
+2022-04-17 22:45:01.1564|2|INFO|Metrics.Controllers.DotNetController|Displayed: 3, 50, 10/03/2020 10:03:00 
+2022-04-17 22:45:01.1564|2|INFO|Metrics.Controllers.DotNetController|Displayed: 4, 5, 10/03/2020 10:03:00 
+2022-04-17 22:45:01.1564|2|INFO|Metrics.Controllers.DotNetController|Displayed: 5, 5, 10/03/2020 10:03:00 
+2022-04-17 22:45:06.6008|1|INFO|Metrics.Controllers.DotNetController|Entered request: Display 5 item from dotnetmetrics database 
+2022-04-17 22:45:13.7965|1|INFO|Metrics.Controllers.CpuController|Entered request: Display cpumetrics database 
+2022-04-17 22:45:13.7965|2|INFO|Metrics.Controllers.CpuController|Displayed: 1, 1, 10/03/2020 10:03:00 
+2022-04-17 22:45:13.7976|2|INFO|Metrics.Controllers.CpuController|Displayed: 3, 10, 10/03/2020 10:03:00 
+2022-04-17 22:45:13.7976|2|INFO|Metrics.Controllers.CpuController|Displayed: 4, 1, 10/03/2020 10:03:00 
+2022-04-17 22:45:13.7976|2|INFO|Metrics.Controllers.CpuController|Displayed: 5, 1, 10/03/2020 10:03:00 
+2022-04-17 22:45:17.9590|1|INFO|Metrics.Controllers.RamController|Entered request: Display rammetrics database 
+2022-04-17 22:45:17.9600|2|INFO|Metrics.Controllers.RamController|Displayed: 1, 3, 10/03/2020 10:03:00 
+2022-04-17 22:45:17.9600|2|INFO|Metrics.Controllers.RamController|Displayed: 3, 30, 10/03/2020 10:03:00 
+2022-04-17 22:45:17.9600|2|INFO|Metrics.Controllers.RamController|Displayed: 4, 3, 10/03/2020 10:03:00 
+2022-04-17 22:45:17.9606|2|INFO|Metrics.Controllers.RamController|Displayed: 5, 3, 10/03/2020 10:03:00 
+2022-04-17 22:45:22.3835|1|INFO|Metrics.Controllers.HddController|Entered request: Display hddmetrics database 
+2022-04-17 22:45:22.3851|2|INFO|Metrics.Controllers.HddController|Displayed: 1, 2, 10/03/2020 10:03:00 
+2022-04-17 22:45:22.3851|2|INFO|Metrics.Controllers.HddController|Displayed: 3, 20, 10/03/2020 10:03:00 
+2022-04-17 22:45:22.3856|2|INFO|Metrics.Controllers.HddController|Displayed: 4, 2, 10/03/2020 10:03:00 
+2022-04-17 22:45:22.3856|2|INFO|Metrics.Controllers.HddController|Displayed: 5, 2, 10/03/2020 10:03:00 
