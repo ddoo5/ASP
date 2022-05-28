@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricsAgent", "MetricsAgent.csproj", "{5BE3E757-84F7-41AF-9E7A-6528F250896B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4BE44A4A-B9A0-4EA7-8785-30033E875844}"
+	ProjectSection(SolutionItems) = preProject
+		CpuController.cs = CpuController.cs
+		DotNetController.cs = DotNetController.cs
+		HddController.cs = HddController.cs
+		MasterController.cs = MasterController.cs
+		NetworkController.cs = NetworkController.cs
+		RamController.cs = RamController.cs
+		AgentInfo.cs = AgentInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE3E757-84F7-41AF-9E7A-6528F250896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3E757-84F7-41AF-9E7A-6528F250896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE3E757-84F7-41AF-9E7A-6528F250896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE3E757-84F7-41AF-9E7A-6528F250896B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08010FB8-993B-46A3-BB28-29A98CD395D4}
+	EndGlobalSection
+EndGlobal
